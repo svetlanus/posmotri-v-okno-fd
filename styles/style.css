@@ -212,7 +212,7 @@ font-size: 18px;
 
 .search-form__textfield {
 appearance: none;
-font-family: inherit; 
+font-family: inherit;
 color: inherit;
 font-weight: 400;
 font-size: 18px;
@@ -254,7 +254,7 @@ width: 100%;
 opacity: 0;
 }
 
-.search-form__checkbox:checked + ::after{
+.search-form__checkbox:checked + ::after {
 opacity: 1;
 }
 
